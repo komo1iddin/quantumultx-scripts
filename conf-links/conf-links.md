@@ -1,7 +1,8 @@
 # Quantumult X conf links
 
-**Scripts that only need to be run once and do not need to be used again.**
-For one-time unlocking, first open the rules and then enter the software! If it doesn’t work, press [Restore Purchase] to restore it!
+**Scripts that only need to be run once and do not need to be used again.**  
+For one-time unlocking, first open the rules and then launch the software!   
+If it doesn’t work, press [Restore Purchase] to restore it!
 
 #Desc Sharp AI - Unlock subscription.  
 https://raw.githubusercontent.com/komo1iddin/quantumultx-scripts/main/conf/iOS/sharpai.conf
