@@ -13,7 +13,7 @@ If it doesn’t work, press [Restore Purchase] to restore it!
 #Conf link: https://raw.githubusercontent.com/komo1iddin/quantumultx-scripts/main/conf/iOS/photoroom.conf
 
 **Desc Darkroom - Unlock yearly subscription**     
-#App link: https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746 
+#App link: https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746   
 #Conf link: https://raw.githubusercontent.com/komo1iddin/quantumultx-scripts/main/conf/Universal/darkroom.conf
 
 **Desc Httpbot - Unlock permanent subscription**     
