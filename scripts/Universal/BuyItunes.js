@@ -1,4 +1,4 @@
-f('com.free.vpn.hotspot.secure.vpnify@vpnify_sub_12month@com.firecore.infuse@com.firecore.infuse.pro.365@net.shinyfrog.bear@net.shinyfrog.bear.pro_yearly_subscription@com.macpaw.CleanMyMac-mas@cmmx.subscription.1year.trial.1week@in.muditbhargava.LookUp@com.squircle.lookup.plus.annual@com.jumsoft.ToolboxforPages@com.jumsoft.ToolboxforPages.Yearly@com.aichatbotgpt4.neural@ACBM@com.skylum.luminarneomas@LNEO_ANN_PRO_SUB')
+f('com.azfalt.mf.pro.unlim@com.free.vpn.hotspot.secure.vpnify@vpnify_sub_12month@com.firecore.infuse@com.firecore.infuse.pro.365@net.shinyfrog.bear@net.shinyfrog.bear.pro_yearly_subscription@com.macpaw.CleanMyMac-mas@cmmx.subscription.1year.trial.1week@in.muditbhargava.LookUp@com.squircle.lookup.plus.annual@com.jumsoft.ToolboxforPages@com.jumsoft.ToolboxforPages.Yearly@com.aichatbotgpt4.neural@ACBM@com.skylum.luminarneomas@LNEO_ANN_PRO_SUB')
 function f() {
 	let body = JSON.parse($response.body)
 	let a = arguments[0].split("@")
