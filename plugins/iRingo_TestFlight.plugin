@@ -1,10 +1,10 @@
-﻿#!name=? iRingo for TestFlight
+﻿#!name= iRingo for TestFlight
 
 #!desc=(V1) 1. Customize TestFlight login store region 2. Multi-account saving and switching (need to configure BoxJs to use) 3. Make universal apps installable on any Apple processor device
 
 #!openUrl=http://boxjs.com/#/app/iRingo.TestFlight
 
-#!author=VirgilClyne
+#!author=
 
 #!homepage=https://github.com/VirgilClyne
 
